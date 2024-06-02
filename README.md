@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Proyek ini adalah implementasi sederhana dari API REST CRUD menggunakan ExpressJS, Prisma, dan PostgreSQL. API ini menyediakan endpoint untuk membuat, membaca, memperbarui, dan menghapus data dalam basis data PostgreSQL.
+Proyek ini adalah implementasi sederhana dari API REST CRUD menggunakan ExpressJS, Prisma, dan MySQL. API ini menyediakan endpoint untuk membuat, membaca, memperbarui, dan menghapus data dalam basis data MySQL.
 
 ## Fitur
 
@@ -15,4 +15,4 @@ Proyek ini adalah implementasi sederhana dari API REST CRUD menggunakan ExpressJ
 
 - [ExpressJS](https://expressjs.com/): Framework web untuk Node.js
 - [Prisma](https://www.prisma.io/): Alat dan ORM untuk akses basis data
-- [PostgreSQL](https://www.postgresql.org/): Sistem manajemen basis data relasional
+- [MySQL](https://www.mysql.com/): Sistem manajemen basis data relasional
