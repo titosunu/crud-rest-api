@@ -1,4 +1,4 @@
-# Basic CRUD REST API 🚀
+# Basic CRUD REST API
 
 ## Deskripsi
 
